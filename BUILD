@@ -6,3 +6,8 @@ swift_binary(
     deps = []
 )
 
+swift_binary(
+    name = "day2",
+    srcs = ["day2.swift"],
+    deps = []
+)
